@@ -1,4 +1,3 @@
-# MercaDados
 # 🛒 Sistema de Vendas
 
 Sistema completo para gerenciamento de vendas e estoque.
